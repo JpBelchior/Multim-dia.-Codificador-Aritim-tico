@@ -1,0 +1,4 @@
+1. Compilar
+g++ -O2 -o arith_codec main.cpp
+2. Rodar
+./arith_codec
